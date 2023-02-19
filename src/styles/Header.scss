@@ -1,0 +1,28 @@
+
+nav ul{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   color: white;
+   background-color: rgb(2, 5, 64);
+   padding: 20px;
+   list-style-type: none;
+
+   >li a{
+    color: white;
+    text-decoration: none;
+   }
+
+   >h1{
+      
+      margin-left: -120px;
+   }
+   
+
+   
+}
+
+
+
+
+
